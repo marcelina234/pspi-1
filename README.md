@@ -1,1 +1,1 @@
-# pspi
+# pspi dzien nauki
